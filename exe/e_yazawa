@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'e_yazawa'
+
+EYazawa.advise
