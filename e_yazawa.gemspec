@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Yazawa will give you some advice."
   spec.description = "Yazawa will give you some advice. Choose your worry. Your worries will disappear."
-  spec.homepage = "https://github.com/shirotamaki/e_yazawa"
+  spec.homepage = "https://rubygems.org/gems/e_yazawa"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
